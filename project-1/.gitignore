@@ -1,0 +1,18 @@
+.idea
+target
+input/*-dbgen
+
+# Specific
+.metals
+project/metals.sbt
+.bloop/bloop.settings.json
+.bloop/project-1-rmamie-test.json
+.bloop/project-1-rmamie.json
+.bloop/project-1-rmamie
+.vscode
+.ipynb_checkpoints
+output*.txt
+parsing.ipynb
+parsing.py
+stats.sh
+test_run_*

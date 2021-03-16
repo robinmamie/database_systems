@@ -1,0 +1,26 @@
+Only base construction, once
+driver-memory 25g - executor-memory 10g - executor-cores 4 - num-executors 16
+- Data set small, query 0
+--- Time LSH Broadcast init: 3068.263516ms
+--- Time LSH Broadcast eval: 167.85726ms
+--- Time LSH init: 23.807852ms
+--- Time LSH eval: 592.442294ms
+--- Time ExactNN: 3048.784022ms
+-- Recall: 0.9187884993426279
+-- Precision: 0.6990244147062663
+- Data set small, query 1
+--- Time LSH Broadcast init: 180.45978ms
+--- Time LSH Broadcast eval: 119.695606ms
+--- Time LSH init: 8.787062ms
+--- Time LSH eval: 240.632513ms
+--- Time ExactNN: 2784.815659ms
+-- Recall: 0.9079170276630555
+-- Precision: 0.6766603017224615
+- Data set small, query 2
+--- Time LSH Broadcast init: 131.296738ms
+--- Time LSH Broadcast eval: 62.503376ms
+--- Time LSH init: 8.11723ms
+--- Time LSH eval: 236.458031ms
+--- Time ExactNN: 2623.493162ms
+-- Recall: 0.9183054481539203
+-- Precision: 0.684620262336778

@@ -1,0 +1,87 @@
+driver-memory 25g - executor-memory 10g - executor-cores 4 - num-executors 16
+- Data set small, query 0
+--- Time LSH Broadcast: 11094.644812ms
+--- Time LSH Broadcast: 4210.37247ms
+--- Time LSH Broadcast: 4701.22538ms
+--- Time LSH Broadcast: 4278.527551ms
+--- Time LSH Broadcast: 4098.39753ms
+--- Time LSH: 13490.526888ms
+--- Time LSH: 18079.339427ms
+--- Time LSH: 18317.588046ms
+--- Time LSH: 12281.237723ms
+--- Time LSH: 14064.250589ms
+--- Time ExactNN: 8697.874168ms
+-- Recall: 0.9293446028572745
+-- Precision: 0.6834375547551522
+- Data set small, query 1
+--- Time LSH Broadcast: 4695.800554ms
+--- Time LSH Broadcast: 4885.901063ms
+--- Time LSH Broadcast: 4819.041737ms
+--- Time LSH Broadcast: 5299.954103ms
+--- Time LSH Broadcast: 5037.374159ms
+--- Time LSH: 17897.46511ms
+--- Time LSH: 15422.204486ms
+--- Time LSH: 14908.73267ms
+--- Time LSH: 13799.51083ms
+--- Time LSH: 16336.599876ms
+--- Time ExactNN: 5485.444687ms
+-- Recall: 0.9136041045333212
+-- Precision: 0.6540151437420022
+- Data set small, query 2
+--- Time LSH Broadcast: 4947.324073ms
+--- Time LSH Broadcast: 3922.43141ms
+--- Time LSH Broadcast: 4746.8721ms
+--- Time LSH Broadcast: 4432.344102ms
+--- Time LSH Broadcast: 6128.975881ms
+--- Time LSH: 15077.884864ms
+--- Time LSH: 13509.415896ms
+--- Time LSH: 13988.800776ms
+--- Time LSH: 12795.676597ms
+--- Time LSH: 12226.17941ms
+--- Time ExactNN: 7576.169596ms
+-- Recall: 0.9404766779038247
+-- Precision: 0.6877469171777492
+- Data set medium, query 3
+--- Time LSH Broadcast: 24896.292031ms
+--- Time LSH Broadcast: 23070.924838ms
+--- Time LSH Broadcast: 21491.109604ms
+--- Time LSH Broadcast: 20488.704732ms
+--- Time LSH Broadcast: 30820.519452ms
+--- Time LSH: 71783.187195ms
+--- Time LSH: 23465.015685ms
+--- Time LSH: 25187.525033ms
+--- Time LSH: 27316.847697ms
+--- Time LSH: 23650.214266ms
+--- Time ExactNN: 78930.616613ms
+-- Recall: 0.8766043446512319
+-- Precision: 0.4953502445175828
+- Data set medium, query 4
+--- Time LSH Broadcast: 21949.056993ms
+--- Time LSH Broadcast: 24254.62613ms
+--- Time LSH Broadcast: 22025.342177ms
+--- Time LSH Broadcast: 23133.000209ms
+--- Time LSH Broadcast: 23832.531592ms
+--- Time LSH: 26575.641401ms
+--- Time LSH: 18991.263306ms
+--- Time LSH: 16359.092171ms
+--- Time LSH: 23312.795336ms
+--- Time LSH: 18944.959135ms
+--- Time ExactNN: 103003.002996ms
+-- Recall: 0.8801299555944518
+-- Precision: 0.4935987964315267
+- Data set medium, query 5
+--- Time LSH Broadcast: 13481.670268ms
+--- Time LSH Broadcast: 16683.56533ms
+--- Time LSH Broadcast: 26015.580478ms
+--- Time LSH Broadcast: 25011.746442ms
+--- Time LSH Broadcast: 23883.612618ms
+--- Time LSH: 20801.092206ms
+--- Time LSH: 17852.852538ms
+--- Time LSH: 19608.581349ms
+--- Time LSH: 17884.40481ms
+--- Time LSH: 19504.086266ms
+--- Time ExactNN: 67964.559301ms
+-- Recall: 0.8755292017234408
+-- Precision: 0.4883985907381751
+- Data set big, query 6
+--- Time LSH Broadcast: 276358.041368ms

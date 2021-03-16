@@ -1,0 +1,152 @@
+- Data set small, query 0
+--- Time LSH Broadcast init: 6739.958503ms
+--- Time LSH Broadcast eval: 1606.008623ms
+--- Time LSH Broadcast init: 2039.619072ms
+--- Time LSH Broadcast eval: 681.587063ms
+--- Time LSH Broadcast init: 2450.736241ms
+--- Time LSH Broadcast eval: 465.575895ms
+--- Time LSH Broadcast init: 1572.379614ms
+--- Time LSH Broadcast eval: 613.496743ms
+--- Time LSH Broadcast init: 2209.681936ms
+--- Time LSH Broadcast eval: 583.513924ms
+--- Time LSH init: 138.835813ms
+--- Time LSH eval: 1449.121582ms
+--- Time LSH init: 95.99555ms
+--- Time LSH eval: 3461.013255ms
+--- Time LSH init: 105.650435ms
+--- Time LSH eval: 1619.34195ms
+--- Time LSH init: 111.136638ms
+--- Time LSH eval: 1736.108268ms
+--- Time LSH init: 122.118004ms
+--- Time LSH eval: 915.117399ms
+--- Time ExactNN: 1304.110995ms
+-- Recall: 0.9293446028572744
+-- Precision: 0.6834375547551524
+- Data set small, query 1
+--- Time LSH Broadcast init: 1829.422857ms
+--- Time LSH Broadcast eval: 1433.69927ms
+--- Time LSH Broadcast init: 1793.073687ms
+--- Time LSH Broadcast eval: 439.534875ms
+--- Time LSH Broadcast init: 1966.499112ms
+--- Time LSH Broadcast eval: 398.494465ms
+--- Time LSH Broadcast init: 1425.521676ms
+--- Time LSH Broadcast eval: 375.394474ms
+--- Time LSH Broadcast init: 1707.368892ms
+--- Time LSH Broadcast eval: 338.230729ms
+--- Time LSH init: 98.583918ms
+--- Time LSH eval: 1287.289033ms
+--- Time LSH init: 114.27438ms
+--- Time LSH eval: 744.219154ms
+--- Time LSH init: 122.900257ms
+--- Time LSH eval: 869.855598ms
+--- Time LSH init: 93.463162ms
+--- Time LSH eval: 816.093281ms
+--- Time LSH init: 115.64523ms
+--- Time LSH eval: 724.038513ms
+--- Time ExactNN: 1231.231673ms
+-- Recall: 0.9136041045333215
+-- Precision: 0.6540151437420025
+- Data set small, query 2
+--- Time LSH Broadcast init: 1714.829212ms
+--- Time LSH Broadcast eval: 1538.03409ms
+--- Time LSH Broadcast init: 1695.079581ms
+--- Time LSH Broadcast eval: 414.940858ms
+--- Time LSH Broadcast init: 1462.339067ms
+--- Time LSH Broadcast eval: 379.07248ms
+--- Time LSH Broadcast init: 1267.996159ms
+--- Time LSH Broadcast eval: 362.599449ms
+--- Time LSH Broadcast init: 1808.492263ms
+--- Time LSH Broadcast eval: 425.169585ms
+--- Time LSH init: 101.118843ms
+--- Time LSH eval: 903.172195ms
+--- Time LSH init: 81.141895ms
+--- Time LSH eval: 887.521153ms
+--- Time LSH init: 75.869584ms
+--- Time LSH eval: 669.611952ms
+--- Time LSH init: 98.958365ms
+--- Time LSH eval: 1004.569974ms
+--- Time LSH init: 131.431483ms
+--- Time LSH eval: 1173.953991ms
+--- Time ExactNN: 1677.007137ms
+-- Recall: 0.9404766779038248
+-- Precision: 0.6877469171777495
+- Data set medium, query 3
+--- Time LSH Broadcast init: 4706.587872ms
+--- Time LSH Broadcast eval: 5708.208825ms
+--- Time LSH Broadcast init: 4527.974998ms
+--- Time LSH Broadcast eval: 5168.291595ms
+--- Time LSH Broadcast init: 4285.758491ms
+--- Time LSH Broadcast eval: 5409.286745ms
+--- Time LSH Broadcast init: 4395.868027ms
+--- Time LSH Broadcast eval: 5403.39252ms
+--- Time LSH Broadcast init: 4304.34668ms
+--- Time LSH Broadcast eval: 5249.717039ms
+--- Time LSH init: 110.514853ms
+--- Time LSH eval: 2061.919983ms
+--- Time LSH init: 90.577015ms
+--- Time LSH eval: 2069.00987ms
+--- Time LSH init: 97.8104ms
+--- Time LSH eval: 2081.343438ms
+--- Time LSH init: 82.134928ms
+--- Time LSH eval: 2288.413611ms
+--- Time LSH init: 105.982005ms
+--- Time LSH eval: 2476.757517ms
+--- Time ExactNN: 39923.196891ms
+-- Recall: 0.8766043446512319
+-- Precision: 0.4953502445175827
+- Data set medium, query 4
+--- Time LSH Broadcast init: 4311.016472ms
+--- Time LSH Broadcast eval: 7066.264127ms
+--- Time LSH Broadcast init: 4515.09007ms
+--- Time LSH Broadcast eval: 6829.983387ms
+--- Time LSH Broadcast init: 5030.319834ms
+--- Time LSH Broadcast eval: 7281.912964ms
+--- Time LSH Broadcast init: 4710.741215ms
+--- Time LSH Broadcast eval: 7354.846712ms
+--- Time LSH Broadcast init: 4633.614907ms
+--- Time LSH Broadcast eval: 6516.711084ms
+--- Time LSH init: 111.192536ms
+--- Time LSH eval: 2248.954745ms
+--- Time LSH init: 113.820377ms
+--- Time LSH eval: 2210.005961ms
+--- Time LSH init: 83.132819ms
+--- Time LSH eval: 2333.521647ms
+--- Time LSH init: 124.648132ms
+--- Time LSH eval: 2189.088157ms
+--- Time LSH init: 125.6219ms
+--- Time LSH eval: 2148.849352ms
+--- Time ExactNN: 33827.456119ms
+-- Recall: 0.8801299555944518
+-- Precision: 0.4935987964315266
+- Data set medium, query 5
+--- Time LSH Broadcast init: 4842.575139ms
+--- Time LSH Broadcast eval: 6223.46314ms
+--- Time LSH Broadcast init: 4899.032349ms
+--- Time LSH Broadcast eval: 8128.886689ms
+--- Time LSH Broadcast init: 4672.894254ms
+--- Time LSH Broadcast eval: 6784.563085ms
+--- Time LSH Broadcast init: 4410.370218ms
+--- Time LSH Broadcast eval: 6522.326327ms
+--- Time LSH Broadcast init: 4711.830089ms
+--- Time LSH Broadcast eval: 7531.928081ms
+--- Time LSH init: 114.298147ms
+--- Time LSH eval: 2079.626911ms
+--- Time LSH init: 123.910872ms
+--- Time LSH eval: 2283.149485ms
+--- Time LSH init: 99.111301ms
+--- Time LSH eval: 2433.824519ms
+--- Time LSH init: 112.701795ms
+--- Time LSH eval: 2305.484941ms
+--- Time LSH init: 113.668452ms
+--- Time LSH eval: 2248.35212ms
+--- Time ExactNN: 39397.932136ms
+-- Recall: 0.8755292017234412
+-- Precision: 0.4883985907381753
+- Data set big, query 6
+--- Time LSH Broadcast init: 30359.949578ms
+--- Time LSH Broadcast eval: 332936.883093ms
+--- Time LSH init: 106.405398ms
+--- Time LSH eval: 63915.146787ms
+- Data set big, query 7
+--- Time LSH Broadcast init: 29080.318337ms
+--- Time LSH Broadcast eval: 264128.590225ms

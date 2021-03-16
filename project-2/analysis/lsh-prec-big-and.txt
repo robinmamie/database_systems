@@ -1,0 +1,26 @@
+Big AND with 8 OR inside, each having 8 Bases
+driver-memory 25g - executor-memory 10g - executor-cores 4 - num-executors 16
+- Data set small, query 0
+--- Time LSH Broadcast init: 13140.065364ms
+--- Time LSH Broadcast eval: 2787.383967ms
+--- Time LSH init: 504.999918ms
+--- Time LSH eval: 6163.728654ms
+--- Time ExactNN: 1181.760921ms
+-- Recall: 0.9402087815096908
+-- Precision: 0.7806985325676075
+- Data set small, query 1
+--- Time LSH Broadcast init: 7761.418458ms
+--- Time LSH Broadcast eval: 2108.532467ms
+--- Time LSH init: 490.855338ms
+--- Time LSH eval: 5043.198191ms
+--- Time ExactNN: 965.300695ms
+-- Recall: 0.9263403162095638
+-- Precision: 0.7578576557599606
+- Data set small, query 2
+--- Time LSH Broadcast init: 7892.69704ms
+--- Time LSH Broadcast eval: 1374.093922ms
+--- Time LSH init: 411.126388ms
+--- Time LSH eval: 4580.922198ms
+--- Time ExactNN: 1002.865895ms
+-- Recall: 0.9331543006094739
+-- Precision: 0.7486914138727278

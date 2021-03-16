@@ -1,0 +1,23 @@
+taxA4K, taxA4K - attr: 2, 2 - <
+driver-memory 2g - executor-memory 2g - total-executor-cores 4 - executor-cores 1 - num-executors 50
+--- Theta-join 125: 38510.322905ms
+--- Theta-join 125: 30637.871836ms
+--- Theta-join 160: 35592.002863ms
+--- Theta-join 160: 34419.072188ms
+--- Theta-join 200: 30502.522863ms
+--- Theta-join 200: 34656.231028ms
+--- Theta-join 250: 26151.631092ms
+--- Theta-join 250: 35200.629233ms
+--- Theta-join 400: 29609.730497ms
+--- Theta-join 400: 25155.273837ms
+--- Theta-join 500: 28361.520478ms
+--- Theta-join 500: 27515.445755ms
+--- Theta-join 800: 29849.760091ms
+--- Theta-join 800: 23866.954585ms
+--- Theta-join 1000: 23809.589546ms
+--- Theta-join 1000: 25298.607881ms
+--- Theta-join 2000: 22523.628692ms
+--- Theta-join 2000: 22816.731501ms
+--- Theta-join 4000: 23792.908986ms
+--- Theta-join 4000: 25420.448592ms
+--- Time cartesian: 98692.40682ms

@@ -1,0 +1,26 @@
+Big or with 8 base inside
+driver-memory 25g - executor-memory 10g - executor-cores 4 - num-executors 16
+- Data set small, query 0
+--- Time LSH Broadcast init: 5159.108405ms
+--- Time LSH Broadcast eval: 2144.067548ms
+--- Time LSH init: 97.619557ms
+--- Time LSH eval: 1987.77953ms
+--- Time ExactNN: 1320.46076ms
+-- Recall: 0.9682723722344109
+-- Precision: 0.4122604329457824
+- Data set small, query 1
+--- Time LSH Broadcast init: 1051.600731ms
+--- Time LSH Broadcast eval: 1580.74027ms
+--- Time LSH init: 94.697896ms
+--- Time LSH eval: 822.346437ms
+--- Time ExactNN: 1971.899867ms
+-- Recall: 0.9519173302082441
+-- Precision: 0.4096496616787341
+- Data set small, query 2
+--- Time LSH Broadcast init: 1081.874008ms
+--- Time LSH Broadcast eval: 1129.939627ms
+--- Time LSH init: 79.806215ms
+--- Time LSH eval: 671.687092ms
+--- Time ExactNN: 1031.851324ms
+-- Recall: 0.9691623516748007
+-- Precision: 0.41946443963175334

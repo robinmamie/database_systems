@@ -1,0 +1,58 @@
+small
+driver-memory 2g - executor-memory 2g - total-executor-cores 4 - executor-cores 2 - num-executors 2
+- Data set small, query 0
+--- Time LSH: 4059.625189ms
+--- Time LSH: 1133.266646ms
+--- Time LSH: 1044.342474ms
+--- Time LSH: 1002.001415ms
+--- Time LSH: 1160.69734ms
+--- Time ExactNN: 2739.339965ms
+- Data set small, query 1
+--- Time LSH: 1242.537817ms
+--- Time LSH: 1185.554236ms
+--- Time LSH: 1113.944167ms
+--- Time LSH: 1067.176303ms
+--- Time LSH: 1067.598499ms
+--- Time ExactNN: 2641.410581ms
+- Data set small, query 2
+--- Time LSH: 428.104462ms
+--- Time LSH: 475.242554ms
+--- Time LSH: 390.929554ms
+--- Time LSH: 410.724495ms
+--- Time LSH: 379.430041ms
+--- Time ExactNN: 1444.857229ms
+- Data set small, query 3
+--- Time LSH: 1865.714917ms
+--- Time LSH: 1524.632789ms
+--- Time LSH: 1773.83913ms
+--- Time LSH: 1615.16024ms
+--- Time LSH: 1564.564777ms
+--- Time ExactNN: 13468.522467ms
+- Data set small, query 4
+--- Time LSH: 1597.356433ms
+--- Time LSH: 1439.276271ms
+--- Time LSH: 1486.44405ms
+--- Time LSH: 1461.667888ms
+--- Time LSH: 1617.984468ms
+--- Time ExactNN: 13236.462841ms
+- Data set small, query 5
+--- Time LSH: 1695.800282ms
+--- Time LSH: 1434.019814ms
+--- Time LSH: 1514.736221ms
+--- Time LSH: 1485.503239ms
+--- Time LSH: 1616.523015ms
+--- Time ExactNN: 14768.310166ms
+- Data set small, query 6
+--- Time LSH: 5990.100581ms
+--- Time LSH: 6580.560405ms
+--- Time LSH: 6982.658201ms
+--- Time LSH: 6812.719949ms
+--- Time LSH: 6307.284043ms
+--- Time ExactNN: 102437.256533ms
+- Data set small, query 7
+--- Time LSH: 7028.254746ms
+--- Time LSH: 7178.556955ms
+--- Time LSH: 7089.028414ms
+--- Time LSH: 6846.628132ms
+--- Time LSH: 6839.812635ms
+--- Time ExactNN: 114577.023425ms

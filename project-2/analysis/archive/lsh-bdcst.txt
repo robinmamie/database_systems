@@ -1,0 +1,74 @@
+small
+driver-memory 2g - executor-memory 2g - total-executor-cores 4 - executor-cores 2 - num-executors 2
+- Data set small, query 0
+--- Time LSH: 5025.945822ms
+--- Time LSH: 1586.324038ms
+--- Time LSH: 1645.905508ms
+--- Time LSH: 1678.703109ms
+--- Time LSH: 1635.077428ms
+--- Time ExactNN: 4209.621013ms
+-- Recall: 0.8795933490030586
+-- Precision: 0.9632358346112264
+- Data set small, query 1
+--- Time LSH: 4027.887737ms
+--- Time LSH: 2170.567392ms
+--- Time LSH: 1956.406789ms
+--- Time LSH: 1844.357353ms
+--- Time LSH: 1752.616925ms
+--- Time ExactNN: 2927.51353ms
+-- Recall: 0.851532875998119
+-- Precision: 0.9871173469387755
+- Data set small, query 2
+--- Time LSH: 497.695197ms
+--- Time LSH: 455.300741ms
+--- Time LSH: 506.325726ms
+--- Time LSH: 489.146012ms
+--- Time LSH: 483.557907ms
+--- Time ExactNN: 2815.40597ms
+-- Recall: 0.942313648936613
+-- Precision: 0.6533167859750107
+- Data set small, query 3
+--- Time LSH: 2714.507208ms
+--- Time LSH: 2606.820005ms
+--- Time LSH: 2519.410782ms
+--- Time LSH: 2588.307518ms
+--- Time LSH: 2477.707029ms
+--- Time ExactNN: 23893.104816ms
+-- Recall: 0.6458664082694066
+-- Precision: 0.9465914654945369
+- Data set small, query 4
+--- Time LSH: 2055.272432ms
+--- Time LSH: 1958.746883ms
+--- Time LSH: 1982.820118ms
+--- Time LSH: 2066.266784ms
+--- Time LSH: 1985.863122ms
+--- Time ExactNN: 23006.587228ms
+-- Recall: 0.6644764513444887
+-- Precision: 0.9357854436916333
+- Data set small, query 5
+--- Time LSH: 2418.734925ms
+--- Time LSH: 2693.843137ms
+--- Time LSH: 2605.600872ms
+--- Time LSH: 2628.354876ms
+--- Time LSH: 2440.282935ms
+--- Time ExactNN: 21477.497305ms
+-- Recall: 0.6459083832711723
+-- Precision: 0.9423242395161419
+- Data set small, query 6
+--- Time LSH: 8227.463687ms
+--- Time LSH: 8163.778965ms
+--- Time LSH: 8289.211389ms
+--- Time LSH: 8448.839208ms
+--- Time LSH: 8010.983434ms
+--- Time ExactNN: 198501.083232ms
+-- Recall: 0.6018949316776722
+-- Precision: 0.9299393260648084
+- Data set small, query 7
+--- Time LSH: 9028.639181ms
+--- Time LSH: 9454.664098ms
+--- Time LSH: 9144.062297ms
+--- Time LSH: 8743.213073ms
+--- Time LSH: 8714.416029ms
+--- Time ExactNN: 193055.33669ms
+-- Recall: 0.6068459908942148
+-- Precision: 0.9308175704336287

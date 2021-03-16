@@ -1,0 +1,668 @@
+Only Base, for all queries
+driver-memory 25g - executor-memory 10g - executor-cores 4 - num-executors 16
+- Data set small, query 0
+--- Time LSH Broadcast init: 3438.904867ms
+--- Time LSH Broadcast eval: 1707.551945ms
+--- Time LSH Broadcast init: 404.071897ms
+--- Time LSH Broadcast eval: 1675.558194ms
+--- Time LSH Broadcast init: 356.901633ms
+--- Time LSH Broadcast eval: 1682.50212ms
+--- Time LSH Broadcast init: 220.433582ms
+--- Time LSH Broadcast eval: 129.773911ms
+--- Time LSH Broadcast init: 186.417106ms
+--- Time LSH Broadcast eval: 184.216377ms
+--- Time LSH Broadcast init: 211.926721ms
+--- Time LSH Broadcast eval: 1651.13509ms
+--- Time LSH Broadcast init: 195.725927ms
+--- Time LSH Broadcast eval: 156.97686ms
+--- Time LSH Broadcast init: 169.426399ms
+--- Time LSH Broadcast eval: 110.207263ms
+--- Time LSH Broadcast init: 204.140884ms
+--- Time LSH Broadcast eval: 110.549588ms
+--- Time LSH Broadcast init: 126.123239ms
+--- Time LSH Broadcast eval: 79.630083ms
+--- Time LSH Broadcast init: 150.380816ms
+--- Time LSH Broadcast eval: 107.742317ms
+--- Time LSH Broadcast init: 144.128541ms
+--- Time LSH Broadcast eval: 81.262143ms
+--- Time LSH Broadcast init: 178.535215ms
+--- Time LSH Broadcast eval: 83.105423ms
+--- Time LSH Broadcast init: 193.64329ms
+--- Time LSH Broadcast eval: 82.48434ms
+--- Time LSH Broadcast init: 133.137245ms
+--- Time LSH Broadcast eval: 72.649822ms
+--- Time LSH Broadcast init: 125.359517ms
+--- Time LSH Broadcast eval: 72.337361ms
+--- Time LSH Broadcast init: 135.8332ms
+--- Time LSH Broadcast eval: 67.196922ms
+--- Time LSH Broadcast init: 113.612085ms
+--- Time LSH Broadcast eval: 64.53221ms
+--- Time LSH Broadcast init: 126.709946ms
+--- Time LSH Broadcast eval: 100.381609ms
+--- Time LSH Broadcast init: 137.355636ms
+--- Time LSH Broadcast eval: 69.879477ms
+--- Time LSH init: 30.647174ms
+--- Time LSH eval: 986.080529ms
+--- Time LSH init: 15.494161ms
+--- Time LSH eval: 352.733932ms
+--- Time LSH init: 20.31638ms
+--- Time LSH eval: 344.28773ms
+--- Time LSH init: 21.230443ms
+--- Time LSH eval: 291.177369ms
+--- Time LSH init: 15.790513ms
+--- Time LSH eval: 300.208834ms
+--- Time LSH init: 15.075848ms
+--- Time LSH eval: 220.499302ms
+--- Time LSH init: 18.498069ms
+--- Time LSH eval: 228.877893ms
+--- Time LSH init: 16.862138ms
+--- Time LSH eval: 311.541639ms
+--- Time LSH init: 9.465301ms
+--- Time LSH eval: 238.586864ms
+--- Time LSH init: 14.209052ms
+--- Time LSH eval: 237.770839ms
+--- Time LSH init: 9.163363ms
+--- Time LSH eval: 177.206312ms
+--- Time LSH init: 12.816953ms
+--- Time LSH eval: 200.573753ms
+--- Time LSH init: 12.412973ms
+--- Time LSH eval: 172.012118ms
+--- Time LSH init: 13.530967ms
+--- Time LSH eval: 202.591807ms
+--- Time LSH init: 11.640111ms
+--- Time LSH eval: 220.556678ms
+--- Time LSH init: 12.673917ms
+--- Time LSH eval: 194.094379ms
+--- Time LSH init: 13.055495ms
+--- Time LSH eval: 259.091633ms
+--- Time LSH init: 12.173857ms
+--- Time LSH eval: 165.671372ms
+--- Time LSH init: 11.611306ms
+--- Time LSH eval: 168.208456ms
+--- Time LSH init: 13.163281ms
+--- Time LSH eval: 226.476074ms
+--- Time ExactNN: 2194.520673ms
+-- Recall: 0.9187884993426277
+-- Precision: 0.6990244147062664
+- Data set small, query 1
+--- Time LSH Broadcast init: 150.76909ms
+--- Time LSH Broadcast eval: 1160.151056ms
+--- Time LSH Broadcast init: 132.146719ms
+--- Time LSH Broadcast eval: 145.158883ms
+--- Time LSH Broadcast init: 123.929633ms
+--- Time LSH Broadcast eval: 99.929794ms
+--- Time LSH Broadcast init: 116.400538ms
+--- Time LSH Broadcast eval: 94.155094ms
+--- Time LSH Broadcast init: 121.114141ms
+--- Time LSH Broadcast eval: 1037.54102ms
+--- Time LSH Broadcast init: 113.152091ms
+--- Time LSH Broadcast eval: 57.367798ms
+--- Time LSH Broadcast init: 113.342475ms
+--- Time LSH Broadcast eval: 54.98047ms
+--- Time LSH Broadcast init: 128.439448ms
+--- Time LSH Broadcast eval: 1179.173702ms
+--- Time LSH Broadcast init: 149.064561ms
+--- Time LSH Broadcast eval: 64.783253ms
+--- Time LSH Broadcast init: 131.506151ms
+--- Time LSH Broadcast eval: 68.388644ms
+--- Time LSH Broadcast init: 204.645276ms
+--- Time LSH Broadcast eval: 84.808464ms
+--- Time LSH Broadcast init: 131.9444ms
+--- Time LSH Broadcast eval: 63.727319ms
+--- Time LSH Broadcast init: 230.249621ms
+--- Time LSH Broadcast eval: 64.411288ms
+--- Time LSH Broadcast init: 101.621503ms
+--- Time LSH Broadcast eval: 79.67276ms
+--- Time LSH Broadcast init: 132.713988ms
+--- Time LSH Broadcast eval: 59.121297ms
+--- Time LSH Broadcast init: 117.466006ms
+--- Time LSH Broadcast eval: 57.216854ms
+--- Time LSH Broadcast init: 114.701947ms
+--- Time LSH Broadcast eval: 56.064154ms
+--- Time LSH Broadcast init: 90.644181ms
+--- Time LSH Broadcast eval: 55.221146ms
+--- Time LSH Broadcast init: 123.827585ms
+--- Time LSH Broadcast eval: 102.531797ms
+--- Time LSH Broadcast init: 128.911543ms
+--- Time LSH Broadcast eval: 456.331601ms
+--- Time LSH init: 11.70112ms
+--- Time LSH eval: 268.818731ms
+--- Time LSH init: 11.665856ms
+--- Time LSH eval: 198.7424ms
+--- Time LSH init: 8.452821ms
+--- Time LSH eval: 197.475104ms
+--- Time LSH init: 9.140281ms
+--- Time LSH eval: 155.425036ms
+--- Time LSH init: 11.112295ms
+--- Time LSH eval: 212.909215ms
+--- Time LSH init: 10.025781ms
+--- Time LSH eval: 232.265706ms
+--- Time LSH init: 10.751512ms
+--- Time LSH eval: 240.909614ms
+--- Time LSH init: 13.793299ms
+--- Time LSH eval: 214.716799ms
+--- Time LSH init: 12.038775ms
+--- Time LSH eval: 194.520288ms
+--- Time LSH init: 11.416858ms
+--- Time LSH eval: 180.528912ms
+--- Time LSH init: 11.672916ms
+--- Time LSH eval: 257.68906ms
+--- Time LSH init: 15.564208ms
+--- Time LSH eval: 148.773308ms
+--- Time LSH init: 9.832173ms
+--- Time LSH eval: 154.538289ms
+--- Time LSH init: 21.035706ms
+--- Time LSH eval: 137.74289ms
+--- Time LSH init: 11.554783ms
+--- Time LSH eval: 145.514697ms
+--- Time LSH init: 11.241081ms
+--- Time LSH eval: 140.255675ms
+--- Time LSH init: 8.005482ms
+--- Time LSH eval: 149.931649ms
+--- Time LSH init: 13.33873ms
+--- Time LSH eval: 170.617562ms
+--- Time LSH init: 12.270552ms
+--- Time LSH eval: 186.047376ms
+--- Time LSH init: 11.98628ms
+--- Time LSH eval: 224.986032ms
+--- Time ExactNN: 1779.802937ms
+-- Recall: 0.9079170276630555
+-- Precision: 0.6766603017224616
+- Data set small, query 2
+--- Time LSH Broadcast init: 131.199521ms
+--- Time LSH Broadcast eval: 66.011876ms
+--- Time LSH Broadcast init: 91.375766ms
+--- Time LSH Broadcast eval: 949.563642ms
+--- Time LSH Broadcast init: 144.847482ms
+--- Time LSH Broadcast eval: 1064.39114ms
+--- Time LSH Broadcast init: 163.744758ms
+--- Time LSH Broadcast eval: 52.399477ms
+--- Time LSH Broadcast init: 174.247322ms
+--- Time LSH Broadcast eval: 1121.727237ms
+--- Time LSH Broadcast init: 124.970645ms
+--- Time LSH Broadcast eval: 67.312956ms
+--- Time LSH Broadcast init: 105.321592ms
+--- Time LSH Broadcast eval: 57.383796ms
+--- Time LSH Broadcast init: 114.423405ms
+--- Time LSH Broadcast eval: 53.975287ms
+--- Time LSH Broadcast init: 125.878441ms
+--- Time LSH Broadcast eval: 53.827029ms
+--- Time LSH Broadcast init: 110.992376ms
+--- Time LSH Broadcast eval: 49.906624ms
+--- Time LSH Broadcast init: 125.293653ms
+--- Time LSH Broadcast eval: 49.828996ms
+--- Time LSH Broadcast init: 105.246931ms
+--- Time LSH Broadcast eval: 47.81246ms
+--- Time LSH Broadcast init: 92.943482ms
+--- Time LSH Broadcast eval: 50.288986ms
+--- Time LSH Broadcast init: 91.564691ms
+--- Time LSH Broadcast eval: 71.944551ms
+--- Time LSH Broadcast init: 142.720724ms
+--- Time LSH Broadcast eval: 62.620286ms
+--- Time LSH Broadcast init: 99.016227ms
+--- Time LSH Broadcast eval: 51.432837ms
+--- Time LSH Broadcast init: 132.61257ms
+--- Time LSH Broadcast eval: 58.153332ms
+--- Time LSH Broadcast init: 107.841847ms
+--- Time LSH Broadcast eval: 49.928514ms
+--- Time LSH Broadcast init: 125.403791ms
+--- Time LSH Broadcast eval: 55.887206ms
+--- Time LSH Broadcast init: 119.845679ms
+--- Time LSH Broadcast eval: 49.136288ms
+--- Time LSH init: 13.783971ms
+--- Time LSH eval: 157.383133ms
+--- Time LSH init: 8.590809ms
+--- Time LSH eval: 148.987049ms
+--- Time LSH init: 13.836397ms
+--- Time LSH eval: 179.166228ms
+--- Time LSH init: 11.303172ms
+--- Time LSH eval: 190.336445ms
+--- Time LSH init: 11.757528ms
+--- Time LSH eval: 192.75529ms
+--- Time LSH init: 9.012001ms
+--- Time LSH eval: 215.441577ms
+--- Time LSH init: 11.768765ms
+--- Time LSH eval: 168.727788ms
+--- Time LSH init: 9.55254ms
+--- Time LSH eval: 197.151447ms
+--- Time LSH init: 10.02233ms
+--- Time LSH eval: 159.550236ms
+--- Time LSH init: 9.743352ms
+--- Time LSH eval: 225.195415ms
+--- Time LSH init: 11.288888ms
+--- Time LSH eval: 224.395309ms
+--- Time LSH init: 16.610533ms
+--- Time LSH eval: 227.851569ms
+--- Time LSH init: 11.582401ms
+--- Time LSH eval: 161.575035ms
+--- Time LSH init: 7.640781ms
+--- Time LSH eval: 146.659641ms
+--- Time LSH init: 8.293041ms
+--- Time LSH eval: 149.901197ms
+--- Time LSH init: 7.285919ms
+--- Time LSH eval: 148.872902ms
+--- Time LSH init: 8.617695ms
+--- Time LSH eval: 151.542718ms
+--- Time LSH init: 8.883496ms
+--- Time LSH eval: 220.949663ms
+--- Time LSH init: 7.779489ms
+--- Time LSH eval: 133.870088ms
+--- Time LSH init: 7.951764ms
+--- Time LSH eval: 150.901028ms
+--- Time ExactNN: 820.573233ms
+-- Recall: 0.9183054481539205
+-- Precision: 0.684620262336778
+- Data set medium, query 3
+--- Time LSH Broadcast init: 534.492607ms
+--- Time LSH Broadcast eval: 167.330899ms
+--- Time LSH Broadcast init: 262.502699ms
+--- Time LSH Broadcast eval: 160.998189ms
+--- Time LSH Broadcast init: 322.586485ms
+--- Time LSH Broadcast eval: 157.18435ms
+--- Time LSH Broadcast init: 360.87145ms
+--- Time LSH Broadcast eval: 149.021552ms
+--- Time LSH Broadcast init: 306.453543ms
+--- Time LSH Broadcast eval: 166.27551ms
+--- Time LSH Broadcast init: 324.123671ms
+--- Time LSH Broadcast eval: 168.177266ms
+--- Time LSH Broadcast init: 346.160835ms
+--- Time LSH Broadcast eval: 148.333746ms
+--- Time LSH Broadcast init: 325.565001ms
+--- Time LSH Broadcast eval: 148.541772ms
+--- Time LSH Broadcast init: 368.049437ms
+--- Time LSH Broadcast eval: 146.527016ms
+--- Time LSH Broadcast init: 326.906301ms
+--- Time LSH Broadcast eval: 1132.54426ms
+--- Time LSH Broadcast init: 304.188023ms
+--- Time LSH Broadcast eval: 204.96095ms
+--- Time LSH Broadcast init: 309.311936ms
+--- Time LSH Broadcast eval: 152.912703ms
+--- Time LSH Broadcast init: 269.801458ms
+--- Time LSH Broadcast eval: 179.881058ms
+--- Time LSH Broadcast init: 299.180136ms
+--- Time LSH Broadcast eval: 155.402659ms
+--- Time LSH Broadcast init: 309.930397ms
+--- Time LSH Broadcast eval: 158.775965ms
+--- Time LSH Broadcast init: 328.265359ms
+--- Time LSH Broadcast eval: 152.852197ms
+--- Time LSH Broadcast init: 369.067686ms
+--- Time LSH Broadcast eval: 147.597296ms
+--- Time LSH Broadcast init: 323.438327ms
+--- Time LSH Broadcast eval: 140.011316ms
+--- Time LSH Broadcast init: 326.413799ms
+--- Time LSH Broadcast eval: 155.635335ms
+--- Time LSH Broadcast init: 291.710325ms
+--- Time LSH Broadcast eval: 149.753692ms
+--- Time LSH init: 12.919037ms
+--- Time LSH eval: 305.367507ms
+--- Time LSH init: 15.473074ms
+--- Time LSH eval: 213.483164ms
+--- Time LSH init: 11.153238ms
+--- Time LSH eval: 273.000262ms
+--- Time LSH init: 12.637262ms
+--- Time LSH eval: 230.322624ms
+--- Time LSH init: 12.883317ms
+--- Time LSH eval: 229.281421ms
+--- Time LSH init: 8.031801ms
+--- Time LSH eval: 246.393403ms
+--- Time LSH init: 12.620115ms
+--- Time LSH eval: 249.318467ms
+--- Time LSH init: 11.975769ms
+--- Time LSH eval: 358.175763ms
+--- Time LSH init: 19.229775ms
+--- Time LSH eval: 226.901247ms
+--- Time LSH init: 10.803444ms
+--- Time LSH eval: 250.354564ms
+--- Time LSH init: 11.591248ms
+--- Time LSH eval: 232.740038ms
+--- Time LSH init: 10.363019ms
+--- Time LSH eval: 231.293712ms
+--- Time LSH init: 11.584878ms
+--- Time LSH eval: 262.552737ms
+--- Time LSH init: 10.09197ms
+--- Time LSH eval: 242.056665ms
+--- Time LSH init: 11.631185ms
+--- Time LSH eval: 217.472566ms
+--- Time LSH init: 13.966292ms
+--- Time LSH eval: 256.219817ms
+--- Time LSH init: 12.796965ms
+--- Time LSH eval: 231.708376ms
+--- Time LSH init: 9.496507ms
+--- Time LSH eval: 244.499886ms
+--- Time LSH init: 9.995723ms
+--- Time LSH eval: 225.151728ms
+--- Time LSH init: 11.747394ms
+--- Time LSH eval: 247.726131ms
+--- Time ExactNN: 34453.302486ms
+-- Recall: 0.8692473308332518
+-- Precision: 0.4883270837419118
+- Data set medium, query 4
+--- Time LSH Broadcast init: 295.111162ms
+--- Time LSH Broadcast eval: 182.649944ms
+--- Time LSH Broadcast init: 288.580317ms
+--- Time LSH Broadcast eval: 167.52296ms
+--- Time LSH Broadcast init: 294.253924ms
+--- Time LSH Broadcast eval: 200.064657ms
+--- Time LSH Broadcast init: 272.984288ms
+--- Time LSH Broadcast eval: 197.607716ms
+--- Time LSH Broadcast init: 324.040857ms
+--- Time LSH Broadcast eval: 158.835361ms
+--- Time LSH Broadcast init: 300.051863ms
+--- Time LSH Broadcast eval: 172.308078ms
+--- Time LSH Broadcast init: 287.392892ms
+--- Time LSH Broadcast eval: 145.960864ms
+--- Time LSH Broadcast init: 313.482363ms
+--- Time LSH Broadcast eval: 181.858075ms
+--- Time LSH Broadcast init: 334.77684ms
+--- Time LSH Broadcast eval: 191.079177ms
+--- Time LSH Broadcast init: 291.080483ms
+--- Time LSH Broadcast eval: 145.548302ms
+--- Time LSH Broadcast init: 320.489691ms
+--- Time LSH Broadcast eval: 150.61687ms
+--- Time LSH Broadcast init: 290.698119ms
+--- Time LSH Broadcast eval: 147.956ms
+--- Time LSH Broadcast init: 316.911601ms
+--- Time LSH Broadcast eval: 176.346052ms
+--- Time LSH Broadcast init: 343.602312ms
+--- Time LSH Broadcast eval: 138.198341ms
+--- Time LSH Broadcast init: 387.10244ms
+--- Time LSH Broadcast eval: 137.275182ms
+--- Time LSH Broadcast init: 399.138939ms
+--- Time LSH Broadcast eval: 141.115966ms
+--- Time LSH Broadcast init: 317.117311ms
+--- Time LSH Broadcast eval: 152.068505ms
+--- Time LSH Broadcast init: 318.611182ms
+--- Time LSH Broadcast eval: 142.073908ms
+--- Time LSH Broadcast init: 333.507295ms
+--- Time LSH Broadcast eval: 145.938791ms
+--- Time LSH Broadcast init: 267.643594ms
+--- Time LSH Broadcast eval: 145.606018ms
+--- Time LSH init: 13.123538ms
+--- Time LSH eval: 204.155515ms
+--- Time LSH init: 15.120582ms
+--- Time LSH eval: 376.95149ms
+--- Time LSH init: 11.04213ms
+--- Time LSH eval: 232.661739ms
+--- Time LSH init: 12.607483ms
+--- Time LSH eval: 229.007745ms
+--- Time LSH init: 11.245007ms
+--- Time LSH eval: 220.559793ms
+--- Time LSH init: 11.265061ms
+--- Time LSH eval: 209.713009ms
+--- Time LSH init: 11.051852ms
+--- Time LSH eval: 283.287635ms
+--- Time LSH init: 10.060298ms
+--- Time LSH eval: 220.546533ms
+--- Time LSH init: 9.99969ms
+--- Time LSH eval: 219.80838ms
+--- Time LSH init: 10.922172ms
+--- Time LSH eval: 220.756085ms
+--- Time LSH init: 12.957006ms
+--- Time LSH eval: 230.665016ms
+--- Time LSH init: 12.507749ms
+--- Time LSH eval: 209.877513ms
+--- Time LSH init: 11.864122ms
+--- Time LSH eval: 289.20592ms
+--- Time LSH init: 11.20485ms
+--- Time LSH eval: 229.610333ms
+--- Time LSH init: 10.872061ms
+--- Time LSH eval: 200.113369ms
+--- Time LSH init: 9.153333ms
+--- Time LSH eval: 183.782459ms
+--- Time LSH init: 13.094944ms
+--- Time LSH eval: 249.962322ms
+--- Time LSH init: 14.048454ms
+--- Time LSH eval: 202.149725ms
+--- Time LSH init: 12.953021ms
+--- Time LSH eval: 220.420712ms
+--- Time LSH init: 12.155242ms
+--- Time LSH eval: 214.519988ms
+--- Time ExactNN: 28258.331296ms
+-- Recall: 0.8742947467199037
+-- Precision: 0.5025191664578961
+- Data set medium, query 5
+--- Time LSH Broadcast init: 297.328106ms
+--- Time LSH Broadcast eval: 170.041524ms
+--- Time LSH Broadcast init: 338.793331ms
+--- Time LSH Broadcast eval: 162.530718ms
+--- Time LSH Broadcast init: 295.603592ms
+--- Time LSH Broadcast eval: 164.7714ms
+--- Time LSH Broadcast init: 271.811258ms
+--- Time LSH Broadcast eval: 147.871646ms
+--- Time LSH Broadcast init: 294.993003ms
+--- Time LSH Broadcast eval: 166.84382ms
+--- Time LSH Broadcast init: 382.783314ms
+--- Time LSH Broadcast eval: 142.404416ms
+--- Time LSH Broadcast init: 266.161364ms
+--- Time LSH Broadcast eval: 152.567802ms
+--- Time LSH Broadcast init: 292.101387ms
+--- Time LSH Broadcast eval: 139.703169ms
+--- Time LSH Broadcast init: 294.408341ms
+--- Time LSH Broadcast eval: 147.069445ms
+--- Time LSH Broadcast init: 333.334551ms
+--- Time LSH Broadcast eval: 155.980444ms
+--- Time LSH Broadcast init: 305.109586ms
+--- Time LSH Broadcast eval: 149.353579ms
+--- Time LSH Broadcast init: 303.410694ms
+--- Time LSH Broadcast eval: 141.699846ms
+--- Time LSH Broadcast init: 279.214995ms
+--- Time LSH Broadcast eval: 146.025098ms
+--- Time LSH Broadcast init: 319.548473ms
+--- Time LSH Broadcast eval: 190.377349ms
+--- Time LSH Broadcast init: 302.441201ms
+--- Time LSH Broadcast eval: 164.292064ms
+--- Time LSH Broadcast init: 263.715503ms
+--- Time LSH Broadcast eval: 137.778268ms
+--- Time LSH Broadcast init: 323.637366ms
+--- Time LSH Broadcast eval: 152.383605ms
+--- Time LSH Broadcast init: 259.257116ms
+--- Time LSH Broadcast eval: 145.1867ms
+--- Time LSH Broadcast init: 329.771836ms
+--- Time LSH Broadcast eval: 140.618293ms
+--- Time LSH Broadcast init: 323.464985ms
+--- Time LSH Broadcast eval: 142.052307ms
+--- Time LSH init: 9.469608ms
+--- Time LSH eval: 203.058407ms
+--- Time LSH init: 11.179867ms
+--- Time LSH eval: 193.917331ms
+--- Time LSH init: 6.941148ms
+--- Time LSH eval: 181.965542ms
+--- Time LSH init: 9.955717ms
+--- Time LSH eval: 201.46413ms
+--- Time LSH init: 10.568463ms
+--- Time LSH eval: 202.176192ms
+--- Time LSH init: 9.817643ms
+--- Time LSH eval: 207.908251ms
+--- Time LSH init: 11.382354ms
+--- Time LSH eval: 268.559456ms
+--- Time LSH init: 9.020706ms
+--- Time LSH eval: 172.561437ms
+--- Time LSH init: 7.390244ms
+--- Time LSH eval: 199.520356ms
+--- Time LSH init: 9.532992ms
+--- Time LSH eval: 191.82603ms
+--- Time LSH init: 7.118498ms
+--- Time LSH eval: 204.283223ms
+--- Time LSH init: 8.641102ms
+--- Time LSH eval: 174.80731ms
+--- Time LSH init: 7.490783ms
+--- Time LSH eval: 182.584788ms
+--- Time LSH init: 10.190136ms
+--- Time LSH eval: 184.773091ms
+--- Time LSH init: 12.477528ms
+--- Time LSH eval: 200.438788ms
+--- Time LSH init: 13.026062ms
+--- Time LSH eval: 192.414547ms
+--- Time LSH init: 10.55937ms
+--- Time LSH eval: 217.908468ms
+--- Time LSH init: 13.057233ms
+--- Time LSH eval: 234.302088ms
+--- Time LSH init: 12.726033ms
+--- Time LSH eval: 212.598089ms
+--- Time LSH init: 12.777609ms
+--- Time LSH eval: 211.741665ms
+--- Time ExactNN: 35949.024577ms
+-- Recall: 0.8672671681647612
+-- Precision: 0.48485200291110464
+- Data set big, query 6
+--- Time LSH Broadcast init: 2288.24855ms
+--- Time LSH Broadcast eval: 1237.473842ms
+--- Time LSH Broadcast init: 1619.539518ms
+--- Time LSH Broadcast eval: 993.694857ms
+--- Time LSH Broadcast init: 1740.879038ms
+--- Time LSH Broadcast eval: 1041.996497ms
+--- Time LSH Broadcast init: 1824.875956ms
+--- Time LSH Broadcast eval: 1155.698652ms
+--- Time LSH Broadcast init: 1870.124302ms
+--- Time LSH Broadcast eval: 1142.780499ms
+--- Time LSH Broadcast init: 1770.50429ms
+--- Time LSH Broadcast eval: 1145.895237ms
+--- Time LSH Broadcast init: 1738.40496ms
+--- Time LSH Broadcast eval: 1071.343411ms
+--- Time LSH Broadcast init: 2023.599682ms
+--- Time LSH Broadcast eval: 1229.251332ms
+--- Time LSH Broadcast init: 1777.950479ms
+--- Time LSH Broadcast eval: 1181.107945ms
+--- Time LSH Broadcast init: 1723.076599ms
+--- Time LSH Broadcast eval: 1042.928979ms
+--- Time LSH Broadcast init: 1846.710541ms
+--- Time LSH Broadcast eval: 1161.014152ms
+--- Time LSH Broadcast init: 1789.020316ms
+--- Time LSH Broadcast eval: 1224.347842ms
+--- Time LSH Broadcast init: 1720.759996ms
+--- Time LSH Broadcast eval: 1131.484213ms
+--- Time LSH Broadcast init: 1829.442572ms
+--- Time LSH Broadcast eval: 1153.999881ms
+--- Time LSH Broadcast init: 1794.969227ms
+--- Time LSH Broadcast eval: 1211.011696ms
+--- Time LSH Broadcast init: 1774.498206ms
+--- Time LSH Broadcast eval: 1013.5823ms
+--- Time LSH Broadcast init: 1767.678313ms
+--- Time LSH Broadcast eval: 1029.565484ms
+--- Time LSH Broadcast init: 1806.90283ms
+--- Time LSH Broadcast eval: 1042.3461ms
+--- Time LSH Broadcast init: 1699.156951ms
+--- Time LSH Broadcast eval: 1027.279335ms
+--- Time LSH Broadcast init: 1737.663598ms
+--- Time LSH Broadcast eval: 1087.113701ms
+--- Time LSH init: 11.62036ms
+--- Time LSH eval: 603.437039ms
+--- Time LSH init: 11.220507ms
+--- Time LSH eval: 664.17938ms
+--- Time LSH init: 11.250628ms
+--- Time LSH eval: 550.153617ms
+--- Time LSH init: 11.130274ms
+--- Time LSH eval: 650.297161ms
+--- Time LSH init: 10.705804ms
+--- Time LSH eval: 517.866557ms
+--- Time LSH init: 10.325281ms
+--- Time LSH eval: 507.642127ms
+--- Time LSH init: 11.444494ms
+--- Time LSH eval: 649.518323ms
+--- Time LSH init: 11.379235ms
+--- Time LSH eval: 736.04139ms
+--- Time LSH init: 10.785171ms
+--- Time LSH eval: 590.622597ms
+--- Time LSH init: 10.469709ms
+--- Time LSH eval: 609.318083ms
+--- Time LSH init: 10.575883ms
+--- Time LSH eval: 682.080804ms
+--- Time LSH init: 10.864229ms
+--- Time LSH eval: 570.896386ms
+--- Time LSH init: 10.688261ms
+--- Time LSH eval: 659.495116ms
+--- Time LSH init: 10.558411ms
+--- Time LSH eval: 520.930282ms
+--- Time LSH init: 12.558103ms
+--- Time LSH eval: 730.090174ms
+--- Time LSH init: 11.153425ms
+--- Time LSH eval: 642.764755ms
+--- Time LSH init: 10.900062ms
+--- Time LSH eval: 708.622206ms
+--- Time LSH init: 10.954394ms
+--- Time LSH eval: 732.677689ms
+--- Time LSH init: 10.755933ms
+--- Time LSH eval: 759.428885ms
+--- Time LSH init: 12.256096ms
+--- Time LSH eval: 681.915681ms
+- Data set big, query 7
+--- Time LSH Broadcast init: 1856.36977ms
+--- Time LSH Broadcast eval: 1126.484558ms
+--- Time LSH Broadcast init: 1744.468035ms
+--- Time LSH Broadcast eval: 1153.721666ms
+--- Time LSH Broadcast init: 1746.505429ms
+--- Time LSH Broadcast eval: 1296.898081ms
+--- Time LSH Broadcast init: 1798.448675ms
+--- Time LSH Broadcast eval: 1081.832149ms
+--- Time LSH Broadcast init: 1828.971769ms
+--- Time LSH Broadcast eval: 1326.956271ms
+--- Time LSH Broadcast init: 1704.409961ms
+--- Time LSH Broadcast eval: 929.864485ms
+--- Time LSH Broadcast init: 1715.219619ms
+--- Time LSH Broadcast eval: 1184.117404ms
+--- Time LSH Broadcast init: 1818.389769ms
+--- Time LSH Broadcast eval: 1104.257803ms
+--- Time LSH Broadcast init: 1887.890055ms
+--- Time LSH Broadcast eval: 1134.096307ms
+--- Time LSH Broadcast init: 1894.964962ms
+--- Time LSH Broadcast eval: 1119.28368ms
+--- Time LSH Broadcast init: 1581.315517ms
+--- Time LSH Broadcast eval: 1011.80902ms
+--- Time LSH Broadcast init: 1916.341283ms
+--- Time LSH Broadcast eval: 1112.764143ms
+--- Time LSH Broadcast init: 1729.580653ms
+--- Time LSH Broadcast eval: 1110.626551ms
+--- Time LSH Broadcast init: 1698.428899ms
+--- Time LSH Broadcast eval: 1127.81945ms
+--- Time LSH Broadcast init: 1756.027041ms
+--- Time LSH Broadcast eval: 1070.038947ms
+--- Time LSH Broadcast init: 1708.020819ms
+--- Time LSH Broadcast eval: 1156.194953ms
+--- Time LSH Broadcast init: 1792.303217ms
+--- Time LSH Broadcast eval: 1055.100994ms
+--- Time LSH Broadcast init: 1736.972344ms
+--- Time LSH Broadcast eval: 1181.790649ms
+--- Time LSH Broadcast init: 1799.771658ms
+--- Time LSH Broadcast eval: 964.980257ms
+--- Time LSH Broadcast init: 1738.999612ms
+--- Time LSH Broadcast eval: 981.871561ms
+--- Time LSH init: 12.806016ms
+--- Time LSH eval: 542.440161ms
+--- Time LSH init: 10.58128ms
+--- Time LSH eval: 499.622153ms
+--- Time LSH init: 11.462026ms
+--- Time LSH eval: 617.474776ms
+--- Time LSH init: 15.301747ms
+--- Time LSH eval: 637.137981ms
+--- Time LSH init: 12.109944ms
+--- Time LSH eval: 701.711756ms
+--- Time LSH init: 12.080565ms
+--- Time LSH eval: 728.262753ms
+--- Time LSH init: 12.391735ms
+--- Time LSH eval: 728.446139ms
+--- Time LSH init: 12.790668ms
+--- Time LSH eval: 606.723956ms
+--- Time LSH init: 10.721017ms
+--- Time LSH eval: 557.446665ms
+--- Time LSH init: 14.401482ms
+--- Time LSH eval: 604.204539ms
+--- Time LSH init: 11.154996ms
+--- Time LSH eval: 589.839586ms
+--- Time LSH init: 9.651057ms
+--- Time LSH eval: 626.486793ms
+--- Time LSH init: 11.665157ms
+--- Time LSH eval: 635.458963ms
+--- Time LSH init: 14.843762ms
+--- Time LSH eval: 562.526478ms
+--- Time LSH init: 11.692729ms
+--- Time LSH eval: 671.906002ms
+--- Time LSH init: 11.412183ms
+--- Time LSH eval: 590.576912ms
+--- Time LSH init: 10.099575ms
+--- Time LSH eval: 666.987095ms
+--- Time LSH init: 6.977739ms
+--- Time LSH eval: 661.149847ms
+--- Time LSH init: 9.646968ms
+--- Time LSH eval: 760.192015ms
+--- Time LSH init: 10.965124ms
+--- Time LSH eval: 549.921066ms

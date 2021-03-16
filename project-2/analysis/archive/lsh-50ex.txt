@@ -1,0 +1,42 @@
+small
+driver-memory 2g - executor-memory 2g - total-executor-cores 4 - executor-cores 1 - num-executors 50
+- Data set small, query 0
+--- Time LSH: 10102.886713ms
+--- Time LSH: 7288.381224ms
+--- Time LSH: 4508.157042ms
+--- Time ExactNN: 3525.128506ms
+- Data set small, query 1
+--- Time LSH: 3517.779458ms
+--- Time LSH: 2631.718359ms
+--- Time LSH: 3462.004271ms
+--- Time ExactNN: 2080.621921ms
+- Data set small, query 2
+--- Time LSH: 622.745123ms
+--- Time LSH: 632.766581ms
+--- Time LSH: 606.106231ms
+--- Time ExactNN: 1803.517615ms
+- Data set small, query 3
+--- Time LSH: 2237.330982ms
+--- Time LSH: 1269.955959ms
+--- Time LSH: 2438.519129ms
+--- Time ExactNN: 18759.019813ms
+- Data set small, query 4
+--- Time LSH: 1374.056737ms
+--- Time LSH: 1216.058891ms
+--- Time LSH: 1844.897133ms
+--- Time ExactNN: 15519.395945ms
+- Data set small, query 5
+--- Time LSH: 1099.45896ms
+--- Time LSH: 1104.886703ms
+--- Time LSH: 2256.702662ms
+--- Time ExactNN: 21173.703628ms
+- Data set small, query 6
+--- Time LSH: 3543.298739ms
+--- Time LSH: 3645.553475ms
+--- Time LSH: 3627.373859ms
+--- Time ExactNN: 258583.852982ms
+- Data set small, query 7
+--- Time LSH: 4387.270622ms
+--- Time LSH: 3650.275851ms
+--- Time LSH: 3507.204899ms
+--- Time ExactNN: 141603.320455ms
